@@ -1,8 +1,8 @@
-<h1> Kyle-Wang </h1>
+<h1>Kyle-Wang</h1>
 
-<h2> Projects </h2>
-  -<b>Half Foods (Python, Flask, HTML)</b>
-      - (https://github.com/kylewangg/Half-Foods)
-  -<b>RankRealm (Python, HTML, CSS, Flask)</b>
-      - (https://github.com/kylewangg/RankRealm)
-  
+<h2>Projects</h2>
+<p><b>Half Foods (Python, Flask, HTML)</b><br>
+<a href="https://github.com/kylewangg/Half-Foods">https://github.com/kylewangg/Half-Foods</a></p>
+
+<p><b>RankRealm (Python, HTML, CSS, Flask)</b><br>
+<a href="https://github.com/kylewangg/RankRealm">https://github.com/kylewangg/RankRealm</a></p>
